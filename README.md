@@ -8,12 +8,12 @@ The orders info is stored in an api. The content then gets pulled for the pizza 
 
 ### Routes
 
-`http://localhost:3000/` & `http://localhost:3000/order` - order form\n
-`http://localhost:3000/order` - order details after form submission
-`http://localhost:3000/orderslist` - search/view orders
+1. `http://localhost:3000/` & `http://localhost:3000/order` - order form
+2. `http://localhost:3000/order` - order details after form submission
+3. `http://localhost:3000/orderslist` - search/view orders
 **Search orders searches for exact matches for first or last name, and phone number**
-`http://localhost:3001/api/orders` - display api data in json
-`http://localhost:3000/*anything else*` - error page
+4. `http://localhost:3001/api/orders` - display api data in json
+5. `http://localhost:3000/*anything else*` - error page
 
 ## How to Run Application
 1. run `npm install` directly inside the folder, but also inside the client folder
