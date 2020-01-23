@@ -8,7 +8,7 @@ The orders info is stored in an api. The content then gets pulled for the pizza 
 
 ### Routes
 
-`http://localhost:3000/` & `http://localhost:3000/order` - order form
+`http://localhost:3000/` & `http://localhost:3000/order` - order form\n
 `http://localhost:3000/order` - order details after form submission
 `http://localhost:3000/orderslist` - search/view orders
 **Search orders searches for exact matches for first or last name, and phone number**
