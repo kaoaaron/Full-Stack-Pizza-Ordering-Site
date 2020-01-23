@@ -1,0 +1,11 @@
+{
+    "sizes" : [
+        {"name" : "Small", "price": "10"},
+        {"name" : "Medium", "price": "15"},
+        {"name" : "Large", "price": "20"}
+    ],
+    "crust": ["Hand Tossed Thin","Handmade Pan","Crunchy"],
+    "toppings":["Pepporoni", "Meatballs","Ham", "Mushrooms", "Spinich"],
+    "toppingPrice":"2",
+    "currentTax": "12"
+}
