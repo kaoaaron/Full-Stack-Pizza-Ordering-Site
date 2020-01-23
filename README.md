@@ -6,7 +6,7 @@ This project was created in order to test my ability to create a basic full stac
 This site allows you to order pizza which stores the data in a NoSQL database.
 The orders info is stored in an api. The content then gets pulled for the pizza owner/administrators to view and search for order info.
 
-### Routes
+## Routes
 
 1. `http://localhost:3000/` & `http://localhost:3000/order` - order form
 2. `http://localhost:3000/order` - order details after form submission
